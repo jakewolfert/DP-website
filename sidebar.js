@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const sidebarHTML = `
     <div class="sidebar">
-        <h1>Jake Wolfert</h1>
+        <h1><a href="index.html">Jake Wolfert</a></h1>
         <ul>
             <li><a href="arcteryxthetruetest.html">Arcteryx The True Test</a></li>
             <li><a href="bestthing.html">Best Thing</a></li>
